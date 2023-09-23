@@ -1,0 +1,1 @@
+{"name":"Local: pola3","url":"i:\\C++\\Toki\\pola3.cpp","tests":[{"id":1695485785606,"input":"5","output":"0\n12\n345\n6789\n01234"},{"id":1695485806736,"input":"7","output":"0\n12\n345\n6789\n01234\n567890\n1234567"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"i:\\C++\\Toki\\pola3.cpp","group":"local","local":true}

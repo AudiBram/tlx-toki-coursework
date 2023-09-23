@@ -1,0 +1,1 @@
+{"name":"Local: ifthenmulti","url":"i:\\C++\\Toki\\ifthenmulti.cpp","tests":[{"id":1695485222679,"input":"12","output":"12"},{"id":1695485296822,"input":"11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"i:\\C++\\Toki\\ifthenmulti.cpp","group":"local","local":true}
