@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"i:\\C++\\Toki\\abc.cpp","tests":[{"id":1695486646564,"input":"4\n1\n1\n2\n10\n2\n01\n4\n1010\n","output":"YES\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"i:\\C++\\Toki\\abc.cpp","group":"local","local":true}
